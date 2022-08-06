@@ -1,4 +1,4 @@
-# discord-console-tricks
+# Discord-console-tricks
 ## Collection of discord console tricks/hacks i found all across the web.
 NOTE: If some of the code below is yours (even tho theres so many versions floating around) i dont mean to discredit you.
 
