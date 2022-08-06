@@ -197,6 +197,19 @@ window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m
 (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m => m?.exports?.default?.sendClydeError).exports.default.sendClydeError("CHANNEL_ID")
 ```
 
+
+## Send a Toast notification
+You can edit `type: 0})` to change the type
+```js
+(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m => m?.exports?.showToast).exports.showToast({message: "Your messahe", type: 0})
+``` 
+> 0 - Normal
+
+> 1 - Check
+
+> 2 - X
+
+
 ## Change channel type (in some in some cases setting it to 0 will crash your client)
 This does not actually set the channel, it just tricks discord thinking thats the channel type. Only you can see this and it will go away after reload.
 
