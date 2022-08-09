@@ -26,7 +26,7 @@ Clyde Bots ID - `1`
 ## Build Overrides:
 Paste this in a channel/dm and click apply
 
-annie/dark: https://discord.com/__development/link?s=Z7XEywE8rsgTvI0MR9P4OknzH4LtPi9j9%2Br8Hwzrohg%3D.eyJ0YXJnZXRCdWlsZE92ZXJyaWRlIjp7ImRpc2NvcmRfd2ViIjp7InR5cGUiOiJicmFuY2giLCJpZCI6ImFubmllL2RhcmsifX0sInJlbGVhc2VDaGFubmVsIjpudWxsLCJ2YWxpZEZvclVzZXJJZHMiOltdLCJhbGxvd0xvZ2dlZE91dCI6ZmFsc2UsImV4cGlyZXNBdCI6IlN1biwgMjggSmFuIDIwMjQgMDE6NTU6MDcgR01UIn0%3D
+annie/dark: [NO LONGER WORKS] https://discord.com/__development/link?s=Z7XEywE8rsgTvI0MR9P4OknzH4LtPi9j9%2Br8Hwzrohg%3D.eyJ0YXJnZXRCdWlsZE92ZXJyaWRlIjp7ImRpc2NvcmRfd2ViIjp7InR5cGUiOiJicmFuY2giLCJpZCI6ImFubmllL2RhcmsifX0sInJlbGVhc2VDaGFubmVsIjpudWxsLCJ2YWxpZEZvclVzZXJJZHMiOltdLCJhbGxvd0xvZ2dlZE91dCI6ZmFsc2UsImV4cGlyZXNBdCI6IlN1biwgMjggSmFuIDIwMjQgMDE6NTU6MDcgR01UIn0%3D
 
 feature/web-slash-command-localization: https://discord.com/__development/link?s=VQw65opXPNOuzDRAa9ID91y7BV0U0ATg%2FmZfrhCBCqc%3D.eyJ0YXJnZXRCdWlsZE92ZXJyaWRlIjp7ImRpc2NvcmRfd2ViIjp7InR5cGUiOiJicmFuY2giLCJpZCI6ImZlYXR1cmUvd2ViLXNsYXNoLWNvbW1hbmQtbG9jYWxpemF0aW9uIn19LCJyZWxlYXNlQ2hhbm5lbCI6bnVsbCwidmFsaWRGb3JVc2VySWRzIjpbXSwiYWxsb3dMb2dnZWRPdXQiOmZhbHNlLCJleHBpcmVzQXQiOiJXZWQsIDEwIEF1ZyAyMDIyIDE3OjE4OjQ1IEdNVCJ9
 
@@ -114,7 +114,7 @@ Yes that exists
 ```
 
 
-## Apply annie/dark build override
+## Apply annie/dark build override [NO LONGER WORKS]
 This will go away after refresh unlike a normal override.
 ```js
 'buildOverride=3ReD%2BC0H5jvQyjL%2BNFqsnQ6XBnuF3rlNR8e3xp2CnSA%3D.eyJkaXNjb3JkX3dlYiI6eyJ0eXBlIjoiYnJhbmNoIiwiaWQiOiJhbm5pZS9kYXJrIn0sIiRtZXRhIjp7ImV4cGlyZXNBdCI6IlN1biwgMjggSmFuIDIwMjQgMDE6NTU6MDcgR01UIn19';
