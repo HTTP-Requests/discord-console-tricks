@@ -101,6 +101,11 @@ Yes that exists
 `https://discord.${""}gg/${(await (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m => m?.exports?.default?.createFriendInvite).exports.default.createFriendInvite()).code}`
 ```
 
+## Revoke all friend invites
+```js
+await (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m => m?.exports?.default?.revokeFriendInvites).exports.default.revokeFriendInvites()
+```
+
 
 ## Get all your public flags
 ```js
