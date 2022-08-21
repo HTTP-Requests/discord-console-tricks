@@ -193,7 +193,7 @@ window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m
 
 ## Get developer mode
 ```js
-// Does not work anymore, i may release the new one soon, it seems like discord is cracking down on this.
+// I will not release the new working code because its how it gets patched faster
 ```
 
 
