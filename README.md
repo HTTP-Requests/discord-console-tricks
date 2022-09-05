@@ -1,6 +1,6 @@
 # Discord-console-tricks
 ## Collection of discord console tricks/hacks i found all across the web.
-NOTE: If some of the code below is yours (even tho theres so many versions floating around) i dont mean to discredit you.
+NOTE: If some of the code below is yours (even tho theres so many versions floating around) i dont mean to discredit you sorry :3.
 
 I will continue to update this. If you have any new code that you want on here make a issue with the code and i may add it.
 
@@ -9,7 +9,7 @@ Go check out this other repo with some code i did not include: https://github.co
 # Extras:
 
 ## Account ID's 
-Yes you can ban all of them form servers *kinda*
+Yes you can ban some of them form servers *kinda*
 
 Discord System message account ID: - `643945264868098049`
 
@@ -23,7 +23,7 @@ Clyde Bots ID - `1`
 
 
 
-## Build Overrides:
+## Build Overrides: (Some may be invalid)
 Paste this in a channel/dm and click apply
 
 annie/dark: [STILL VALID BUT NO LONGER WORKS] https://discord.com/__development/link?s=Z7XEywE8rsgTvI0MR9P4OknzH4LtPi9j9%2Br8Hwzrohg%3D.eyJ0YXJnZXRCdWlsZE92ZXJyaWRlIjp7ImRpc2NvcmRfd2ViIjp7InR5cGUiOiJicmFuY2giLCJpZCI6ImFubmllL2RhcmsifX0sInJlbGVhc2VDaGFubmVsIjpudWxsLCJ2YWxpZEZvclVzZXJJZHMiOltdLCJhbGxvd0xvZ2dlZE91dCI6ZmFsc2UsImV4cGlyZXNBdCI6IlN1biwgMjggSmFuIDIwMjQgMDE6NTU6MDcgR01UIn0%3D
@@ -55,8 +55,13 @@ location.reload();
 login('PASTE TOKEN HERE')
 ```
 
+## Get staff public flag (badge)
+```js
+user = (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m => m?.exports?.default?.getCurrentUser).exports.default.getCurrentUser(); user.flags = user.publicFlags += 1;
+```
 
-## Get server outage icon
+
+## Get server outage icon at the end of server list
 ```js
 webpackChunkdiscord_app.push([["h"], {}, e => {mods = Object.values(e.c)}]);
 for (let [key, val] of Object.entries(mods.find(m => m?.exports?.default?.getGuilds).exports.default.getGuilds())) {
@@ -193,7 +198,7 @@ window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m
 
 ## Get developer mode
 ```js
-// I will not release the new working code because its how it gets patched faster
+// I will not release the new working code because its how it gets patched faster. To bad so sad
 ```
 
 
