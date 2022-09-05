@@ -4,7 +4,7 @@ NOTE: If some of the code below is yours (even tho theres so many versions float
 
 I will continue to update this. If you have any new code that you want on here make a issue with the code and i may add it.
 
-Go check out this other repo with some code i did not include: https://github.com/hxr404/Discord-Console-hacks
+Note that i did not make this code this is a collection of code i found across the web (there were no good repos that included all of them so i made one)
 
 # Extras:
 
