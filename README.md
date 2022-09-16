@@ -240,7 +240,7 @@ Channel Types:
 
 > 14 - Student Hub Directory
 
-> 14 - Forum
+> 15 - Forum
 
 
 
